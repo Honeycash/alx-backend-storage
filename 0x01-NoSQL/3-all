@@ -1,0 +1,3 @@
+// all Documents
+
+db.school.find();
